@@ -17,7 +17,7 @@
 
 **(d) the distribution of $z_s$ under $s$, different colors represent different sensitive labels** 
 
-### The t-SNE visualization of $\mathbf{z}_c$ and $\mathbf{z}_s$  corresponding to 5000 samples in the MNIST-ROT test dataset. From (a), $\mathbf{z}_{c}$ can be gathered to form different sample clusters according to $c$. While the rotation angle label, as shown in (b), can only produce a relatively uniform distribution, test samples with different rotation angles are distributed in each cluster. Similar rules are also reflected in the (d) and (c).
+### The t-SNE visualization of $z_c$ and $z_s$ corresponding to 5000 samples in the MNIST-ROT test dataset. From (a), $z_{c}$ can be gathered to form different sample clusters according to $c$. While the rotation angle label, as shown in (b), can only produce a relatively uniform distribution, test samples with different rotation angles are distributed in each cluster. Similar rules are also reflected in the (d) and (c).
 
 ![04_MNIST-ROT-TSNE-a](./res/07_yaleb-TSNE-a.jpg)
 
@@ -35,7 +35,7 @@
 
 **(h) the distribution of $z_s$ under $s$, different colors represent different sensitive labels** 
 
-### The t-SNE visualization of $\mathbf{z}_c$ and $\mathbf{z}_s$ corresponding to 1096 samples in the Extended YaleB test dataset. From (e), $\mathbf{z}_{c}$ can be gathered to form different sample clusters according to y. While the sensitive label $s$, as shown in (f), can only produce a relatively uniform distribution, test samples with different sensitive labels are distributed in each cluster. Similar rules are also reflected in the (g) and (h).
+### The t-SNE visualization of $z_c$ and $z_s$ corresponding to 1096 samples in the Extended YaleB test dataset. From (e), $z_{c}$ can be gathered to form different sample clusters according to y. While the sensitive label $s$, as shown in (f), can only produce a relatively uniform distribution, test samples with different sensitive labels are distributed in each cluster. Similar rules are also reflected in the (g) and (h).
 
 
 #### A released version will be coming soon...
