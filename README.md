@@ -17,7 +17,7 @@
 
 **(d) the distribution of $z_s$ under $s$, different colors represent different sensitive labels** 
 
-### The t-SNE visualization of $\mathbf{z}_c$ and $\mathbf{z}_s$ corresponding to 5000 samples in the MNIST-ROT test dataset. From (a), $\mathbf{z}_{c}$ can be gathered to form different sample clusters according to $c$. While the rotation angle label, as shown in (b), can only produce a relatively uniform distribution, test samples with different rotation angles are distributed in each cluster. Similar rules are also reflected in the (d) and (c).
+### The t-SNE visualization of $\mathbf{z}_c$ and $\mathbf{z}_s$  corresponding to 5000 samples in the MNIST-ROT test dataset. From (a), $\mathbf{z}_{c}$ can be gathered to form different sample clusters according to $c$. While the rotation angle label, as shown in (b), can only produce a relatively uniform distribution, test samples with different rotation angles are distributed in each cluster. Similar rules are also reflected in the (d) and (c).
 
 ![04_MNIST-ROT-TSNE-a](./res/07_yaleb-TSNE-a.jpg)
 
