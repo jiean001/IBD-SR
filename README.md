@@ -19,6 +19,10 @@ The t-SNE visualization of $z_c$ and $z_s$ corresponding to 1096 samples in the 
 
 The code was tested on Ubuntu 16.04, with Python 3.6 and PyTorch 1.5.
 
+# Details
+
+see the [demos](./jupyter/demo.ipynb)
+
 # Citation
 
 Please consider citing this project in your publications if it helps your research. The following is a BibTeX reference. The BibTeX entry requires the url LaTeX package.
